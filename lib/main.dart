@@ -19,7 +19,7 @@ class TaskApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
         textTheme: GoogleFonts.poppinsTextTheme(),
       ),
-      home:  ProjectsScreen(),
+      home:  TaskScreen(),
     );
   }
 }
